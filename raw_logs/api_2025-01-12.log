@@ -1,0 +1,110 @@
+[2025-01-12 09:30:11] INFO - API server started
+[2025-01-12 09:31:04] DEBUG - Token generated for client 42
+[2025-01-12 09:32:18] ERROR - Unauthorized access attempt from 192.168.0.55
+[2025-01-12 09:33:51] INFO - Request processed
+[2025-01-12 09:35:10] ERROR - Rate limit exceeded for client 42
+[2025-01-12 09:40:12] INFO - Health check passed
+[2025-01-12 09:42:33] DEBUG - Cached response for /v1/users
+[2025-01-12 09:50:01] WARNING - Slow query detected on endpoint /v1/orders
+[2025-01-12 10:02:15] INFO - Token refreshed for client 73
+[2025-01-12 10:15:47] ERROR - Upstream service unavailable
+[2025-01-12 10:16:00] INFO - Background job started
+[2025-01-12 10:16:01] DEBUG - Cache warm for /v1/products
+[2025-01-12 10:16:02] WARNING - Slow query on /v1/orders
+[2025-01-12 10:16:03] INFO - Request processed
+[2025-01-12 10:16:04] ERROR - Upstream timeout
+[2025-01-12 10:16:05] DEBUG - Token validation took 12ms
+[2025-01-12 10:16:06] INFO - Health check passed
+[2025-01-12 10:16:07] WARNING - Deprecated endpoint used: /v1/legacy
+[2025-01-12 10:16:08] INFO - Background job finished
+[2025-01-12 10:16:09] DEBUG - Cached response for /v1/users
+[2025-01-12 10:16:10] INFO - Metrics flushed
+[2025-01-12 10:16:11] ERROR - Database pool exhausted
+[2025-01-12 10:16:12] INFO - Retry scheduled in 5s
+[2025-01-12 10:16:13] DEBUG - Retrying connection
+[2025-01-12 10:16:14] INFO - Connection re-established
+[2025-01-12 10:16:15] WARNING - High latency detected
+[2025-01-12 10:16:16] DEBUG - Serialize payload size=2KB
+[2025-01-12 10:16:17] INFO - Request processed
+[2025-01-12 10:16:18] ERROR - Unauthorized: token expired
+[2025-01-12 10:16:19] INFO - Token refreshed for client 12
+[2025-01-12 10:16:20] DEBUG - Cache miss /v1/catalog
+[2025-01-12 10:16:21] WARNING - Rate limit near threshold client=12
+[2025-01-12 10:16:22] INFO - Rate limit reset client=12
+[2025-01-12 10:16:23] DEBUG - Payload parsed in 4ms
+[2025-01-12 10:16:24] INFO - Request processed
+[2025-01-12 10:16:25] ERROR - Bad gateway
+[2025-01-12 10:16:26] INFO - Circuit breaker open
+[2025-01-12 10:16:27] WARNING - Circuit breaker half-open
+[2025-01-12 10:16:28] INFO - Circuit breaker closed
+[2025-01-12 10:16:29] DEBUG - Cache warm for /v1/analytics
+[2025-01-12 10:16:30] INFO - Health check passed
+[2025-01-12 10:16:31] WARNING - Slow query on /v1/items
+[2025-01-12 10:16:32] INFO - Metrics flushed
+[2025-01-12 10:16:33] DEBUG - Token validation took 9ms
+[2025-01-12 10:16:34] ERROR - Upstream service unavailable
+[2025-01-12 10:16:35] INFO - Retrying request
+[2025-01-12 10:16:36] DEBUG - Retry attempt=1
+[2025-01-12 10:16:37] INFO - Retry succeeded
+[2025-01-12 10:16:38] WARNING - Deprecated header detected
+[2025-01-12 10:16:39] DEBUG - Cached response for /v1/orders
+[2025-01-12 10:16:40] INFO - Request processed
+[2025-01-12 10:16:41] ERROR - Unauthorized access attempt
+[2025-01-12 10:16:42] INFO - Audit logged
+[2025-01-12 10:16:43] DEBUG - Serialize payload size=3KB
+[2025-01-12 10:16:44] WARNING - High memory usage in worker-2
+[2025-01-12 10:16:45] INFO - Worker-2 restarted
+[2025-01-12 10:16:46] DEBUG - Cache miss /v1/search
+[2025-01-12 10:16:47] INFO - Request processed
+[2025-01-12 10:16:48] ERROR - Token signature invalid
+[2025-01-12 10:16:49] INFO - Token regenerated client=77
+[2025-01-12 10:16:50] DEBUG - Payload parsed in 3ms
+[2025-01-12 10:16:51] WARNING - Slow response to client=77
+[2025-01-12 10:16:52] INFO - Response delivered client=77
+[2025-01-12 10:16:53] DEBUG - Cache warm for /v1/profile
+[2025-01-12 10:16:54] INFO - Health check passed
+[2025-01-12 10:16:55] WARNING - Upstream latency spikes
+[2025-01-12 10:16:56] INFO - Metrics flushed
+[2025-01-12 10:16:57] ERROR - Upstream timeout
+[2025-01-12 10:16:58] INFO - Fallback served
+[2025-01-12 10:16:59] DEBUG - Fallback cache created
+[2025-01-12 10:17:00] INFO - Request processed
+[2025-01-12 10:17:01] WARNING - Slow query on /v1/reports
+[2025-01-12 10:17:02] DEBUG - Token validation took 8ms
+[2025-01-12 10:17:03] INFO - Health check passed
+[2025-01-12 10:17:04] ERROR - Database pool exhausted
+[2025-01-12 10:17:05] INFO - Pool size increased
+[2025-01-12 10:17:06] DEBUG - Cache warm for /v1/feeds
+[2025-01-12 10:17:07] WARNING - Rate limit near threshold client=33
+[2025-01-12 10:17:08] INFO - Rate limit reset client=33
+[2025-01-12 10:17:09] DEBUG - Payload parsed in 5ms
+[2025-01-12 10:17:10] INFO - Request processed
+[2025-01-12 10:17:11] ERROR - Bad gateway
+[2025-01-12 10:17:12] INFO - Retrying request
+[2025-01-12 10:17:13] DEBUG - Retry attempt=1
+[2025-01-12 10:17:14] WARNING - Retry delayed 250ms
+[2025-01-12 10:17:15] INFO - Retry succeeded
+[2025-01-12 10:17:16] DEBUG - Token validation took 7ms
+[2025-01-12 10:17:17] INFO - Metrics flushed
+[2025-01-12 10:17:18] WARNING - Deprecated endpoint used: /v1/legacy
+[2025-01-12 10:17:19] INFO - Request processed
+[2025-01-12 10:17:20] DEBUG - Cache miss /v1/catalog
+[2025-01-12 10:17:21] ERROR - Unauthorized: token expired
+[2025-01-12 10:17:22] INFO - Token refreshed for client 45
+[2025-01-12 10:17:23] DEBUG - Serialize payload size=2KB
+[2025-01-12 10:17:24] WARNING - Slow query on /v1/items
+[2025-01-12 10:17:25] INFO - Request processed
+[2025-01-12 10:17:26] ERROR - Upstream service unavailable
+[2025-01-12 10:17:27] INFO - Fallback served
+[2025-01-12 10:17:28] DEBUG - Fallback cache created
+[2025-01-12 10:17:29] INFO - Health check passed
+[2025-01-12 10:17:30] WARNING - High memory usage in worker-1
+[2025-01-12 10:17:31] INFO - Worker-1 restarted
+[2025-01-12 10:17:32] DEBUG - Payload parsed in 4ms
+[2025-01-12 10:17:33] INFO - Request processed
+[2025-01-12 10:17:34] ERROR - Bad gateway
+[2025-01-12 10:17:35] INFO - Retrying request
+[2025-01-12 10:17:36] DEBUG - Retry attempt=2
+[2025-01-12 10:17:37] INFO - Retry succeeded
+[2025-01-12 10:17:38] WARNING - Deprecated header detected
+[2025-01-12 10:17:39] DEBUG - Cached response for /v1/orders

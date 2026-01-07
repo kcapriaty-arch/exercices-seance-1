@@ -1,0 +1,111 @@
+2025-01-11 12:00:01 [INFO] Server boot sequence initiated
+2025-01-11 12:00:02 [WARNING] High memory usage detected
+2025-01-11 12:00:05 [INFO] Services started
+2025-01-11 12:10:45 [DEBUG] Heartbeat OK
+2025-01-11 12:11:02 [ERROR] Client request failed: malformed JSON payload
+2025-01-11 12:12:33 [INFO] Cleanup finished
+2025-01-11 12:13:00 [INFO] New client connection established
+2025-01-11 12:13:22 [WARNING] Disk space below 10%
+2025-01-11 12:14:09 [DEBUG] CPU load 72%
+2025-01-11 12:15:55 [INFO] Service restart completed
+2025-01-11 12:16:37 [ERROR] Failed to write to log file
+2025-01-11 12:16:45 [INFO] Log file permissions fixed
+2025-01-11 12:16:46 [DEBUG] Write test OK
+2025-01-11 12:16:47 [WARNING] Disk space below 8%
+2025-01-11 12:16:48 [INFO] Cleanup initiated
+2025-01-11 12:16:49 [DEBUG] Removed 5 temp files
+2025-01-11 12:16:50 [INFO] Cleanup finished
+2025-01-11 12:16:51 [ERROR] Socket bind failed port=8080
+2025-01-11 12:16:52 [INFO] Socket bind retried
+2025-01-11 12:16:53 [DEBUG] Bind success port=8080
+2025-01-11 12:16:54 [WARNING] High CPU usage
+2025-01-11 12:16:55 [INFO] CPU throttling enabled
+2025-01-11 12:16:56 [DEBUG] Load average 1.23
+2025-01-11 12:16:57 [INFO] Heartbeat OK
+2025-01-11 12:16:58 [ERROR] Config reload failed
+2025-01-11 12:16:59 [INFO] Config reload retried
+2025-01-11 12:17:00 [DEBUG] Config reload success
+2025-01-11 12:17:01 [WARNING] Memory pressure
+2025-01-11 12:17:02 [INFO] Memory freed
+2025-01-11 12:17:03 [DEBUG] Page cache flushed
+2025-01-11 12:17:04 [INFO] Services nominal
+2025-01-11 12:17:05 [ERROR] Client timeout id=21
+2025-01-11 12:17:06 [INFO] Client reconnected id=21
+2025-01-11 12:17:07 [DEBUG] Connection pool size=64
+2025-01-11 12:17:08 [WARNING] Slow disk writes
+2025-01-11 12:17:09 [INFO] IO scheduler adjusted
+2025-01-11 12:17:10 [DEBUG] IO latency 9ms
+2025-01-11 12:17:11 [INFO] Service healthy
+2025-01-11 12:17:12 [ERROR] Worker crashed id=4
+2025-01-11 12:17:13 [INFO] Worker restarted id=4
+2025-01-11 12:17:14 [DEBUG] Thread count=32
+2025-01-11 12:17:15 [WARNING] Low bandwidth
+2025-01-11 12:17:16 [INFO] Bandwidth restored
+2025-01-11 12:17:17 [DEBUG] Prefetch complete
+2025-01-11 12:17:18 [INFO] New client connection established
+2025-01-11 12:17:19 [ERROR] TLS handshake failed
+2025-01-11 12:17:20 [INFO] TLS renegotiated
+2025-01-11 12:17:21 [DEBUG] Handshake 35ms
+2025-01-11 12:17:22 [WARNING] High latency region=eu
+2025-01-11 12:17:23 [INFO] Route optimizer enabled
+2025-01-11 12:17:24 [DEBUG] Routes warmed
+2025-01-11 12:17:25 [INFO] Services stable
+2025-01-11 12:17:26 [ERROR] HTTP 503 upstream
+2025-01-11 12:17:27 [INFO] Fallback served
+2025-01-11 12:17:28 [DEBUG] Fallback cache created
+2025-01-11 12:17:29 [WARNING] Deprecated API usage detected
+2025-01-11 12:17:30 [INFO] Deprecation notice sent
+2025-01-11 12:17:31 [DEBUG] Notice queue depth=12
+2025-01-11 12:17:32 [INFO] Notice queue drained
+2025-01-11 12:17:33 [ERROR] Log rotate failed
+2025-01-11 12:17:34 [INFO] Log rotate retried
+2025-01-11 12:17:35 [DEBUG] Log rotate success
+2025-01-11 12:17:36 [WARNING] High memory usage in worker-5
+2025-01-11 12:17:37 [INFO] Worker-5 restarted
+2025-01-11 12:17:38 [DEBUG] GC cycle completed
+2025-01-11 12:17:39 [INFO] Heartbeat OK
+2025-01-11 12:17:40 [ERROR] Client request failed: malformed JSON payload
+2025-01-11 12:17:41 [INFO] Client notified of error
+2025-01-11 12:17:42 [DEBUG] Error trace id=abc123
+2025-01-11 12:17:43 [WARNING] Spike in 5xx responses
+2025-01-11 12:17:44 [INFO] Auto-scaling triggered
+2025-01-11 12:17:45 [DEBUG] Scale up nodes=2
+2025-01-11 12:17:46 [INFO] Auto-scaling completed
+2025-01-11 12:17:47 [ERROR] Health endpoint degraded
+2025-01-11 12:17:48 [INFO] Health endpoint restored
+2025-01-11 12:17:49 [DEBUG] Health check 20ms
+2025-01-11 12:17:50 [WARNING] Scheduler delay
+2025-01-11 12:17:51 [INFO] Scheduler tuned
+2025-01-11 12:17:52 [DEBUG] Queue depth=9
+2025-01-11 12:17:53 [INFO] Queue drained
+2025-01-11 12:17:54 [ERROR] File lock contention
+2025-01-11 12:17:55 [INFO] Lock released
+2025-01-11 12:17:56 [DEBUG] Snapshot created
+2025-01-11 12:17:57 [WARNING] Slow disk reads
+2025-01-11 12:17:58 [INFO] Reads optimized
+2025-01-11 12:17:59 [DEBUG] Cache hit rate=93%
+2025-01-11 12:18:00 [INFO] Services nominal
+2025-01-11 12:18:01 [ERROR] API rate limit exceeded
+2025-01-11 12:18:02 [INFO] Rate limit reset
+2025-01-11 12:18:03 [DEBUG] Token validation 11ms
+2025-01-11 12:18:04 [WARNING] Deprecated header detected
+2025-01-11 12:18:05 [INFO] Header stripped
+2025-01-11 12:18:06 [DEBUG] Payload parsed 6ms
+2025-01-11 12:18:07 [INFO] Request processed
+2025-01-11 12:18:08 [ERROR] Upstream timeout
+2025-01-11 12:18:09 [INFO] Retry scheduled
+2025-01-11 12:18:10 [DEBUG] Retry attempt=1
+2025-01-11 12:18:11 [WARNING] Retry delayed 300ms
+2025-01-11 12:18:12 [INFO] Retry succeeded
+2025-01-11 12:18:13 [DEBUG] Metrics flushed
+2025-01-11 12:18:14 [INFO] Heartbeat OK
+2025-01-11 12:18:15 [ERROR] Worker stalled id=7
+2025-01-11 12:18:16 [INFO] Worker resumed id=7
+2025-01-11 12:18:17 [DEBUG] Heap usage=512MB
+2025-01-11 12:18:18 [WARNING] High heap usage
+2025-01-11 12:18:19 [INFO] Heap trimmed
+2025-01-11 12:18:20 [DEBUG] Thread pool resized
+2025-01-11 12:18:21 [INFO] Services stable
+2025-01-11 12:18:22 [ERROR] Config invalid option
+2025-01-11 12:18:23 [INFO] Config corrected
+2025-01-11 12:18:24 [DEBUG] Config checksum OK

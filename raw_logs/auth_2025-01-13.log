@@ -1,0 +1,110 @@
+2025-01-13T07:00:01Z INFO Login attempt user=john
+2025-01-13T07:00:05Z WARNING Slow authentication service
+2025-01-13T07:00:06Z ERROR Invalid password for user=john
+2025-01-13T07:00:10Z INFO Login attempt user=alice
+2025-01-13T07:00:11Z ERROR User account locked user=alice
+2025-01-13T07:05:01Z INFO Login attempt user=bob
+2025-01-13T07:05:03Z ERROR Invalid password for user=bob
+2025-01-13T07:06:44Z INFO Login attempt user=carol
+2025-01-13T07:06:45Z INFO Login success user=carol
+2025-01-13T07:08:10Z WARNING 2FA required user=dave
+2025-01-13T07:08:20Z INFO Login attempt user=erin
+2025-01-13T07:08:21Z ERROR Invalid password for user=erin
+2025-01-13T07:08:22Z INFO Login attempt user=frank
+2025-01-13T07:08:23Z INFO Login success user=frank
+2025-01-13T07:08:24Z WARNING Slow authentication service
+2025-01-13T07:08:25Z INFO Login attempt user=grace
+2025-01-13T07:08:26Z ERROR User account locked user=grace
+2025-01-13T07:08:27Z INFO Login attempt user=helen
+2025-01-13T07:08:28Z INFO Login success user=helen
+2025-01-13T07:08:29Z WARNING 2FA required user=helen
+2025-01-13T07:08:30Z INFO Login attempt user=ian
+2025-01-13T07:08:31Z ERROR Invalid password for user=ian
+2025-01-13T07:08:32Z INFO Login attempt user=jane
+2025-01-13T07:08:33Z INFO Login success user=jane
+2025-01-13T07:08:34Z WARNING Slow authentication service
+2025-01-13T07:08:35Z INFO Login attempt user=karl
+2025-01-13T07:08:36Z ERROR Invalid password for user=karl
+2025-01-13T07:08:37Z INFO Login attempt user=lisa
+2025-01-13T07:08:38Z INFO Login success user=lisa
+2025-01-13T07:08:39Z WARNING 2FA required user=lisa
+2025-01-13T07:08:40Z INFO Login attempt user=mark
+2025-01-13T07:08:41Z ERROR User account locked user=mark
+2025-01-13T07:08:42Z INFO Login attempt user=nina
+2025-01-13T07:08:43Z INFO Login success user=nina
+2025-01-13T07:08:44Z WARNING Slow authentication service
+2025-01-13T07:08:45Z INFO Login attempt user=oliver
+2025-01-13T07:08:46Z ERROR Invalid password for user=oliver
+2025-01-13T07:08:47Z INFO Login attempt user=paula
+2025-01-13T07:08:48Z INFO Login success user=paula
+2025-01-13T07:08:49Z WARNING 2FA required user=paula
+2025-01-13T07:08:50Z INFO Login attempt user=quentin
+2025-01-13T07:08:51Z ERROR Invalid password for user=quentin
+2025-01-13T07:08:52Z INFO Login attempt user=rachel
+2025-01-13T07:08:53Z INFO Login success user=rachel
+2025-01-13T07:08:54Z WARNING Slow authentication service
+2025-01-13T07:08:55Z INFO Login attempt user=steve
+2025-01-13T07:08:56Z ERROR User account locked user=steve
+2025-01-13T07:08:57Z INFO Login attempt user=tina
+2025-01-13T07:08:58Z INFO Login success user=tina
+2025-01-13T07:08:59Z WARNING 2FA required user=tina
+2025-01-13T07:09:00Z INFO Login attempt user=umar
+2025-01-13T07:09:01Z ERROR Invalid password for user=umar
+2025-01-13T07:09:02Z INFO Login attempt user=violet
+2025-01-13T07:09:03Z INFO Login success user=violet
+2025-01-13T07:09:04Z WARNING Slow authentication service
+2025-01-13T07:09:05Z INFO Login attempt user=will
+2025-01-13T07:09:06Z ERROR Invalid password for user=will
+2025-01-13T07:09:07Z INFO Login attempt user=xena
+2025-01-13T07:09:08Z INFO Login success user=xena
+2025-01-13T07:09:09Z WARNING 2FA required user=xena
+2025-01-13T07:09:10Z INFO Login attempt user=yves
+2025-01-13T07:09:11Z ERROR Invalid password for user=yves
+2025-01-13T07:09:12Z INFO Login attempt user=zara
+2025-01-13T07:09:13Z INFO Login success user=zara
+2025-01-13T07:09:14Z WARNING Slow authentication service
+2025-01-13T07:09:15Z INFO Login attempt user=alice
+2025-01-13T07:09:16Z ERROR User account locked user=alice
+2025-01-13T07:09:17Z INFO Login attempt user=bob
+2025-01-13T07:09:18Z INFO Login success user=bob
+2025-01-13T07:09:19Z WARNING 2FA required user=bob
+2025-01-13T07:09:20Z INFO Login attempt user=carol
+2025-01-13T07:09:21Z INFO Login success user=carol
+2025-01-13T07:09:22Z WARNING Slow authentication service
+2025-01-13T07:09:23Z INFO Login attempt user=dave
+2025-01-13T07:09:24Z ERROR Invalid password for user=dave
+2025-01-13T07:09:25Z INFO Login attempt user=erin
+2025-01-13T07:09:26Z INFO Login success user=erin
+2025-01-13T07:09:27Z WARNING 2FA required user=erin
+2025-01-13T07:09:28Z INFO Login attempt user=frank
+2025-01-13T07:09:29Z ERROR Invalid password for user=frank
+2025-01-13T07:09:30Z INFO Login attempt user=grace
+2025-01-13T07:09:31Z INFO Login success user=grace
+2025-01-13T07:09:32Z WARNING Slow authentication service
+2025-01-13T07:09:33Z INFO Login attempt user=helen
+2025-01-13T07:09:34Z INFO Login success user=helen
+2025-01-13T07:09:35Z WARNING 2FA required user=helen
+2025-01-13T07:09:36Z INFO Login attempt user=ian
+2025-01-13T07:09:37Z ERROR Invalid password for user=ian
+2025-01-13T07:09:38Z INFO Login attempt user=jane
+2025-01-13T07:09:39Z INFO Login success user=jane
+2025-01-13T07:09:40Z WARNING Slow authentication service
+2025-01-13T07:09:41Z INFO Login attempt user=karl
+2025-01-13T07:09:42Z ERROR Invalid password for user=karl
+2025-01-13T07:09:43Z INFO Login attempt user=lisa
+2025-01-13T07:09:44Z INFO Login success user=lisa
+2025-01-13T07:09:45Z WARNING 2FA required user=lisa
+2025-01-13T07:09:46Z INFO Login attempt user=mark
+2025-01-13T07:09:47Z ERROR User account locked user=mark
+2025-01-13T07:09:48Z INFO Login attempt user=nina
+2025-01-13T07:09:49Z INFO Login success user=nina
+2025-01-13T07:09:50Z WARNING Slow authentication service
+2025-01-13T07:09:51Z INFO Login attempt user=oliver
+2025-01-13T07:09:52Z ERROR Invalid password for user=oliver
+2025-01-13T07:09:53Z INFO Login attempt user=paula
+2025-01-13T07:09:54Z INFO Login success user=paula
+2025-01-13T07:09:55Z WARNING 2FA required user=paula
+2025-01-13T07:09:56Z INFO Login attempt user=quentin
+2025-01-13T07:09:57Z ERROR Invalid password for user=quentin
+2025-01-13T07:09:58Z INFO Login attempt user=rachel
+2025-01-13T07:09:59Z INFO Login success user=rachel

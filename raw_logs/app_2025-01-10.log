@@ -1,0 +1,111 @@
+2025-01-10 08:15:23 [INFO] Starting application
+2025-01-10 08:15:24 [DEBUG] Loading configuration file
+2025-01-10 08:15:25 [ERROR] Failed to connect to database: timeout
+2025-01-10 08:15:26 [INFO] Retrying connection…
+2025-01-10 08:15:27 [ERROR] Database connection permanently lost
+2025-01-10 08:15:29 [INFO] Application stopped
+2025-01-10 08:16:00 [INFO] Restarting application
+2025-01-10 08:16:01 [DEBUG] Re-initializing modules
+2025-01-10 08:16:03 [INFO] Application running
+2025-01-10 08:20:04 [WARNING] Low disk space
+2025-01-10 08:22:10 [ERROR] Unexpected shutdown triggered
+2025-01-10 08:22:20 [INFO] Starting recovery
+2025-01-10 08:22:21 [DEBUG] Rebuilding cache
+2025-01-10 08:22:22 [WARNING] Configuration mismatch detected
+2025-01-10 08:22:23 [INFO] Configuration synced
+2025-01-10 08:22:24 [ERROR] Plugin load failed: auth
+2025-01-10 08:22:25 [DEBUG] Retrying plugin load: auth
+2025-01-10 08:22:26 [INFO] Plugin auth loaded
+2025-01-10 08:22:27 [WARNING] High memory usage
+2025-01-10 08:22:28 [DEBUG] GC cycle completed
+2025-01-10 08:22:29 [INFO] Service online
+2025-01-10 08:22:30 [ERROR] Endpoint /health unreachable
+2025-01-10 08:22:31 [INFO] Endpoint /health restored
+2025-01-10 08:22:32 [DEBUG] Warmed routes
+2025-01-10 08:22:33 [WARNING] Slow startup detected
+2025-01-10 08:22:34 [INFO] Startup metrics recorded
+2025-01-10 08:22:35 [DEBUG] Loaded 5 modules
+2025-01-10 08:22:36 [INFO] Application running
+2025-01-10 08:22:37 [ERROR] Failed to open socket
+2025-01-10 08:22:38 [INFO] Socket reopened
+2025-01-10 08:22:39 [DEBUG] Connection pool size=10
+2025-01-10 08:22:40 [WARNING] Disk IO slow
+2025-01-10 08:22:41 [INFO] IO scheduler adjusted
+2025-01-10 08:22:42 [DEBUG] Cache miss key=config
+2025-01-10 08:22:43 [INFO] Cache filled key=config
+2025-01-10 08:22:44 [ERROR] Worker crashed id=3
+2025-01-10 08:22:45 [INFO] Worker restarted id=3
+2025-01-10 08:22:46 [DEBUG] Thread count=12
+2025-01-10 08:22:47 [WARNING] Low disk space
+2025-01-10 08:22:48 [INFO] Cleanup initiated
+2025-01-10 08:22:49 [DEBUG] Cleanup removed 12 files
+2025-01-10 08:22:50 [INFO] Cleanup finished
+2025-01-10 08:22:51 [ERROR] Log rotate failed
+2025-01-10 08:22:52 [INFO] Log rotate retried
+2025-01-10 08:22:53 [DEBUG] Log rotate success
+2025-01-10 08:22:54 [WARNING] High CPU usage
+2025-01-10 08:22:55 [INFO] CPU limits applied
+2025-01-10 08:22:56 [DEBUG] Metrics flushed
+2025-01-10 08:22:57 [INFO] Heartbeat OK
+2025-01-10 08:22:58 [ERROR] DB transient error
+2025-01-10 08:22:59 [INFO] DB reconnecting
+2025-01-10 08:23:00 [DEBUG] DB reconnected
+2025-01-10 08:23:01 [WARNING] Slow query
+2025-01-10 08:23:02 [INFO] Query optimized
+2025-01-10 08:23:03 [DEBUG] Cache hit rate=92%
+2025-01-10 08:23:04 [INFO] Task scheduled backup
+2025-01-10 08:23:05 [ERROR] Backup failed
+2025-01-10 08:23:06 [INFO] Backup retried
+2025-01-10 08:23:07 [DEBUG] Backup success
+2025-01-10 08:23:08 [WARNING] Network jitter
+2025-01-10 08:23:09 [INFO] Network stabilized
+2025-01-10 08:23:10 [DEBUG] TLS handshake 45ms
+2025-01-10 08:23:11 [INFO] New session opened
+2025-01-10 08:23:12 [ERROR] Session timeout
+2025-01-10 08:23:13 [INFO] Session renewed
+2025-01-10 08:23:14 [DEBUG] Cache primed
+2025-01-10 08:23:15 [WARNING] Deprecated config detected
+2025-01-10 08:23:16 [INFO] Config updated
+2025-01-10 08:23:17 [DEBUG] Worker load=72%
+2025-01-10 08:23:18 [INFO] Worker scaled up
+2025-01-10 08:23:19 [ERROR] Scale failure zone=eu
+2025-01-10 08:23:20 [INFO] Scale retried zone=eu
+2025-01-10 08:23:21 [DEBUG] Scale success zone=eu
+2025-01-10 08:23:22 [WARNING] Low entropy
+2025-01-10 08:23:23 [INFO] Entropy increased
+2025-01-10 08:23:24 [DEBUG] RNG seeded
+2025-01-10 08:23:25 [INFO] Service healthy
+2025-01-10 08:23:26 [ERROR] Crash loop detected
+2025-01-10 08:23:27 [INFO] Crash loop mitigated
+2025-01-10 08:23:28 [DEBUG] Restart count=2
+2025-01-10 08:23:29 [WARNING] Memory pressure
+2025-01-10 08:23:30 [INFO] Memory freed
+2025-01-10 08:23:31 [DEBUG] Page cache flushed
+2025-01-10 08:23:32 [INFO] App stable
+2025-01-10 08:23:33 [ERROR] Feature flag invalid
+2025-01-10 08:23:34 [INFO] Feature flag corrected
+2025-01-10 08:23:35 [DEBUG] Feature enabled
+2025-01-10 08:23:36 [WARNING] Scheduling delay
+2025-01-10 08:23:37 [INFO] Scheduler tuned
+2025-01-10 08:23:38 [DEBUG] Queue depth=7
+2025-01-10 08:23:39 [INFO] Queue drained
+2025-01-10 08:23:40 [ERROR] HTTP 500
+2025-01-10 08:23:41 [INFO] HTTP recovered
+2025-01-10 08:23:42 [DEBUG] Routes warmed
+2025-01-10 08:23:43 [WARNING] Low bandwidth
+2025-01-10 08:23:44 [INFO] Bandwidth restored
+2025-01-10 08:23:45 [DEBUG] Prefetch complete
+2025-01-10 08:23:46 [INFO] App healthy
+2025-01-10 08:23:47 [ERROR] Worker stalled
+2025-01-10 08:23:48 [INFO] Worker resumed
+2025-01-10 08:23:49 [DEBUG] Heap usage=256MB
+2025-01-10 08:23:50 [WARNING] High heap usage
+2025-01-10 08:23:51 [INFO] Heap trimmed
+2025-01-10 08:23:52 [DEBUG] Thread pool resized
+2025-01-10 08:23:53 [INFO] Services nominal
+2025-01-10 08:23:54 [ERROR] File lock contention
+2025-01-10 08:23:55 [INFO] Lock released
+2025-01-10 08:23:56 [DEBUG] IO latency 12ms
+2025-01-10 08:23:57 [WARNING] Slow writes
+2025-01-10 08:23:58 [INFO] Writes optimized
+2025-01-10 08:23:59 [DEBUG] Snapshot created

@@ -1,0 +1,110 @@
+2025/01/14 10:22:55 INFO Payment request received
+2025/01/14 10:23:02 DEBUG Checking card validity
+2025/01/14 10:23:05 ERROR Payment rejected: insufficient funds
+2025/01/14 10:23:15 INFO Sending confirmation email
+2025/01/14 10:24:01 ERROR Failed to send confirmation email
+2025/01/14 10:25:10 INFO Payment approved
+2025/01/14 10:26:22 DEBUG Fraud check score=12
+2025/01/14 10:27:01 INFO Charge captured
+2025/01/14 10:28:45 WARNING Delayed response from email provider
+2025/01/14 10:30:12 ERROR Refund failed: gateway timeout
+2025/01/14 10:30:20 INFO Payment request received
+2025/01/14 10:30:21 DEBUG Checking card validity
+2025/01/14 10:30:22 WARNING Slow gateway response
+2025/01/14 10:30:23 INFO Payment approved
+2025/01/14 10:30:24 ERROR Charge capture failed
+2025/01/14 10:30:25 INFO Charge captured
+2025/01/14 10:30:26 DEBUG Fraud check score=8
+2025/01/14 10:30:27 INFO Sending receipt email
+2025/01/14 10:30:28 WARNING Email provider delay
+2025/01/14 10:30:29 INFO Receipt sent
+2025/01/14 10:30:30 ERROR Email bounce detected
+2025/01/14 10:30:31 INFO Retrying email delivery
+2025/01/14 10:30:32 DEBUG Email retry attempt=1
+2025/01/14 10:30:33 INFO Email delivered
+2025/01/14 10:30:34 WARNING High latency to payment gateway
+2025/01/14 10:30:35 INFO Payment request received
+2025/01/14 10:30:36 DEBUG Card tokenization 23ms
+2025/01/14 10:30:37 ERROR Tokenization service unavailable
+2025/01/14 10:30:38 INFO Fallback tokenization used
+2025/01/14 10:30:39 DEBUG Fraud check score=16
+2025/01/14 10:30:40 INFO Payment approved
+2025/01/14 10:30:41 WARNING Charge pending
+2025/01/14 10:30:42 INFO Charge captured
+2025/01/14 10:30:43 DEBUG Settlement batch queued
+2025/01/14 10:30:44 INFO Settlement submitted
+2025/01/14 10:30:45 ERROR Settlement rejected
+2025/01/14 10:30:46 INFO Settlement retried
+2025/01/14 10:30:47 DEBUG Settlement success
+2025/01/14 10:30:48 WARNING Delayed response from email provider
+2025/01/14 10:30:49 INFO Sending confirmation email
+2025/01/14 10:30:50 ERROR Failed to send confirmation email
+2025/01/14 10:30:51 INFO Retrying email
+2025/01/14 10:30:52 DEBUG Email retry attempt=2
+2025/01/14 10:30:53 INFO Email delivered
+2025/01/14 10:30:54 WARNING Refund queue backlog
+2025/01/14 10:30:55 INFO Refund initiated
+2025/01/14 10:30:56 ERROR Refund failed: gateway timeout
+2025/01/14 10:30:57 INFO Refund retried
+2025/01/14 10:30:58 DEBUG Refund attempt=1
+2025/01/14 10:30:59 INFO Refund succeeded
+2025/01/14 10:31:00 WARNING Chargeback risk elevated
+2025/01/14 10:31:01 INFO Risk review started
+2025/01/14 10:31:02 DEBUG Risk score=42
+2025/01/14 10:31:03 INFO Risk review completed
+2025/01/14 10:31:04 ERROR Payment gateway 502
+2025/01/14 10:31:05 INFO Gateway recovered
+2025/01/14 10:31:06 DEBUG Gateway latency 120ms
+2025/01/14 10:31:07 WARNING High gateway latency
+2025/01/14 10:31:08 INFO Payment request received
+2025/01/14 10:31:09 DEBUG Checking card validity
+2025/01/14 10:31:10 ERROR Card expired
+2025/01/14 10:31:11 INFO Card updated by customer
+2025/01/14 10:31:12 DEBUG Card tokenization 19ms
+2025/01/14 10:31:13 INFO Payment approved
+2025/01/14 10:31:14 WARNING Charge pending
+2025/01/14 10:31:15 INFO Charge captured
+2025/01/14 10:31:16 DEBUG Settlement batch queued
+2025/01/14 10:31:17 INFO Settlement submitted
+2025/01/14 10:31:18 ERROR Settlement rejected
+2025/01/14 10:31:19 INFO Settlement retried
+2025/01/14 10:31:20 DEBUG Settlement success
+2025/01/14 10:31:21 WARNING Delayed response from email provider
+2025/01/14 10:31:22 INFO Sending confirmation email
+2025/01/14 10:31:23 ERROR Failed to send confirmation email
+2025/01/14 10:31:24 INFO Retrying email
+2025/01/14 10:31:25 DEBUG Email retry attempt=3
+2025/01/14 10:31:26 INFO Email delivered
+2025/01/14 10:31:27 WARNING Refund queue backlog
+2025/01/14 10:31:28 INFO Refund initiated
+2025/01/14 10:31:29 ERROR Refund failed: gateway timeout
+2025/01/14 10:31:30 INFO Refund retried
+2025/01/14 10:31:31 DEBUG Refund attempt=2
+2025/01/14 10:31:32 INFO Refund succeeded
+2025/01/14 10:31:33 WARNING Chargeback risk elevated
+2025/01/14 10:31:34 INFO Risk review started
+2025/01/14 10:31:35 DEBUG Risk score=31
+2025/01/14 10:31:36 INFO Risk review completed
+2025/01/14 10:31:37 ERROR Payment gateway 503
+2025/01/14 10:31:38 INFO Gateway recovered
+2025/01/14 10:31:39 DEBUG Gateway latency 98ms
+2025/01/14 10:31:40 WARNING High gateway latency
+2025/01/14 10:31:41 INFO Payment request received
+2025/01/14 10:31:42 DEBUG Checking card validity
+2025/01/14 10:31:43 ERROR Card declined
+2025/01/14 10:31:44 INFO Customer retried payment
+2025/01/14 10:31:45 DEBUG Card tokenization 22ms
+2025/01/14 10:31:46 INFO Payment approved
+2025/01/14 10:31:47 WARNING Charge pending
+2025/01/14 10:31:48 INFO Charge captured
+2025/01/14 10:31:49 DEBUG Settlement batch queued
+2025/01/14 10:31:50 INFO Settlement submitted
+2025/01/14 10:31:51 ERROR Settlement rejected
+2025/01/14 10:31:52 INFO Settlement retried
+2025/01/14 10:31:53 DEBUG Settlement success
+2025/01/14 10:31:54 WARNING Delayed response from email provider
+2025/01/14 10:31:55 INFO Sending confirmation email
+2025/01/14 10:31:56 ERROR Failed to send confirmation email
+2025/01/14 10:31:57 INFO Retrying email
+2025/01/14 10:31:58 DEBUG Email retry attempt=4
+2025/01/14 10:31:59 INFO Email delivered

@@ -1,0 +1,17 @@
+id_client,nom,prenom,age,date_inscription,montant_total_eur,actif,derniere_connexion,newsletter_ok
+1,Dupont,Alice,29,2023-01-15,1234.5,oui,2024-03-11 08:15:00,TRUE
+5,Moreau,Luc,42,,0.0,oui,2024-01-01 00:00:00,true
+7,Bernard,Hugo,27,2023-09-10,75.5,non,2023-11-09 18:30:00,
+9,Lefevre,Emma,0,2019-01-20,12.0,0,,FALSE
+10,Petit,Thomas,33,2023-03-15,8765.43,oui,2025-01-01 10:10:00,True
+11,Petit,Thomas,33,2023-03-15,8765.43,oui,2025-01-01 10:10:00,True
+18,Chen,Wei,29,2021-11-30,inf,1,2021-01-12 00:00:00,TRUE
+19,Ivanov,Sergey,44,2020-01-01,0.0,NON,2020-02-01 10:00:00,true
+21,D'Amico,Luigi,33,2022-02-28,12345.67,1,2022-01-03 09:09:00,
+24,Ndiaye,Awa,27,2021-06-15,75.0,oui,,true
+26,Lefevre,Emma,0,2019-01-20,12.0,0,,FALSE
+32,Smith,John,35,2023-01-01,12.34,oui,2023-02-01 02:02:00,TRUE
+33,Smith,John,35,2023-01-01,12.34,oui,2023-02-01 02:02:00,TRUE
+34,Dupont,Alice,29,2023-01-15,1234.5,oui,2024-03-11 08:15:00,TRUE
+37,Zhang,Li,30,2021-06-01,500.0,non,2021-02-06 12:00:00,FALSE
+40,Petit,Thomas,33,2023-03-15,8765.43,oui,2025-01-01 10:10:00,True

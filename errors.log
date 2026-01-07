@@ -1,0 +1,89 @@
+api_2025-01-12.log: [2025-01-12 09:32:18] ERROR - Unauthorized access attempt from 192.168.0.55
+api_2025-01-12.log: [2025-01-12 09:35:10] ERROR - Rate limit exceeded for client 42
+api_2025-01-12.log: [2025-01-12 10:15:47] ERROR - Upstream service unavailable
+api_2025-01-12.log: [2025-01-12 10:16:04] ERROR - Upstream timeout
+api_2025-01-12.log: [2025-01-12 10:16:11] ERROR - Database pool exhausted
+api_2025-01-12.log: [2025-01-12 10:16:18] ERROR - Unauthorized: token expired
+api_2025-01-12.log: [2025-01-12 10:16:25] ERROR - Bad gateway
+api_2025-01-12.log: [2025-01-12 10:16:34] ERROR - Upstream service unavailable
+api_2025-01-12.log: [2025-01-12 10:16:41] ERROR - Unauthorized access attempt
+api_2025-01-12.log: [2025-01-12 10:16:48] ERROR - Token signature invalid
+api_2025-01-12.log: [2025-01-12 10:16:57] ERROR - Upstream timeout
+api_2025-01-12.log: [2025-01-12 10:17:04] ERROR - Database pool exhausted
+api_2025-01-12.log: [2025-01-12 10:17:11] ERROR - Bad gateway
+api_2025-01-12.log: [2025-01-12 10:17:21] ERROR - Unauthorized: token expired
+api_2025-01-12.log: [2025-01-12 10:17:26] ERROR - Upstream service unavailable
+api_2025-01-12.log: [2025-01-12 10:17:34] ERROR - Bad gateway
+app_2025-01-10.log: 2025-01-10 08:15:25 [ERROR] Failed to connect to database: timeout
+app_2025-01-10.log: 2025-01-10 08:15:27 [ERROR] Database connection permanently lost
+app_2025-01-10.log: 2025-01-10 08:22:10 [ERROR] Unexpected shutdown triggered
+app_2025-01-10.log: 2025-01-10 08:22:24 [ERROR] Plugin load failed: auth
+app_2025-01-10.log: 2025-01-10 08:22:30 [ERROR] Endpoint /health unreachable
+app_2025-01-10.log: 2025-01-10 08:22:37 [ERROR] Failed to open socket
+app_2025-01-10.log: 2025-01-10 08:22:44 [ERROR] Worker crashed id=3
+app_2025-01-10.log: 2025-01-10 08:22:51 [ERROR] Log rotate failed
+app_2025-01-10.log: 2025-01-10 08:22:58 [ERROR] DB transient error
+app_2025-01-10.log: 2025-01-10 08:23:05 [ERROR] Backup failed
+app_2025-01-10.log: 2025-01-10 08:23:12 [ERROR] Session timeout
+app_2025-01-10.log: 2025-01-10 08:23:19 [ERROR] Scale failure zone=eu
+app_2025-01-10.log: 2025-01-10 08:23:26 [ERROR] Crash loop detected
+app_2025-01-10.log: 2025-01-10 08:23:33 [ERROR] Feature flag invalid
+app_2025-01-10.log: 2025-01-10 08:23:40 [ERROR] HTTP 500
+app_2025-01-10.log: 2025-01-10 08:23:47 [ERROR] Worker stalled
+app_2025-01-10.log: 2025-01-10 08:23:54 [ERROR] File lock contention
+auth_2025-01-13.log: 2025-01-13T07:00:06Z ERROR Invalid password for user=john
+auth_2025-01-13.log: 2025-01-13T07:00:11Z ERROR User account locked user=alice
+auth_2025-01-13.log: 2025-01-13T07:05:03Z ERROR Invalid password for user=bob
+auth_2025-01-13.log: 2025-01-13T07:08:21Z ERROR Invalid password for user=erin
+auth_2025-01-13.log: 2025-01-13T07:08:26Z ERROR User account locked user=grace
+auth_2025-01-13.log: 2025-01-13T07:08:31Z ERROR Invalid password for user=ian
+auth_2025-01-13.log: 2025-01-13T07:08:36Z ERROR Invalid password for user=karl
+auth_2025-01-13.log: 2025-01-13T07:08:41Z ERROR User account locked user=mark
+auth_2025-01-13.log: 2025-01-13T07:08:46Z ERROR Invalid password for user=oliver
+auth_2025-01-13.log: 2025-01-13T07:08:51Z ERROR Invalid password for user=quentin
+auth_2025-01-13.log: 2025-01-13T07:08:56Z ERROR User account locked user=steve
+auth_2025-01-13.log: 2025-01-13T07:09:01Z ERROR Invalid password for user=umar
+auth_2025-01-13.log: 2025-01-13T07:09:06Z ERROR Invalid password for user=will
+auth_2025-01-13.log: 2025-01-13T07:09:11Z ERROR Invalid password for user=yves
+auth_2025-01-13.log: 2025-01-13T07:09:16Z ERROR User account locked user=alice
+auth_2025-01-13.log: 2025-01-13T07:09:24Z ERROR Invalid password for user=dave
+auth_2025-01-13.log: 2025-01-13T07:09:29Z ERROR Invalid password for user=frank
+auth_2025-01-13.log: 2025-01-13T07:09:37Z ERROR Invalid password for user=ian
+auth_2025-01-13.log: 2025-01-13T07:09:42Z ERROR Invalid password for user=karl
+auth_2025-01-13.log: 2025-01-13T07:09:47Z ERROR User account locked user=mark
+auth_2025-01-13.log: 2025-01-13T07:09:52Z ERROR Invalid password for user=oliver
+auth_2025-01-13.log: 2025-01-13T07:09:57Z ERROR Invalid password for user=quentin
+payment_2025-01-14.log: 2025/01/14 10:23:05 ERROR Payment rejected: insufficient funds
+payment_2025-01-14.log: 2025/01/14 10:24:01 ERROR Failed to send confirmation email
+payment_2025-01-14.log: 2025/01/14 10:30:12 ERROR Refund failed: gateway timeout
+payment_2025-01-14.log: 2025/01/14 10:30:24 ERROR Charge capture failed
+payment_2025-01-14.log: 2025/01/14 10:30:30 ERROR Email bounce detected
+payment_2025-01-14.log: 2025/01/14 10:30:37 ERROR Tokenization service unavailable
+payment_2025-01-14.log: 2025/01/14 10:30:45 ERROR Settlement rejected
+payment_2025-01-14.log: 2025/01/14 10:30:50 ERROR Failed to send confirmation email
+payment_2025-01-14.log: 2025/01/14 10:30:56 ERROR Refund failed: gateway timeout
+payment_2025-01-14.log: 2025/01/14 10:31:04 ERROR Payment gateway 502
+payment_2025-01-14.log: 2025/01/14 10:31:10 ERROR Card expired
+payment_2025-01-14.log: 2025/01/14 10:31:18 ERROR Settlement rejected
+payment_2025-01-14.log: 2025/01/14 10:31:23 ERROR Failed to send confirmation email
+payment_2025-01-14.log: 2025/01/14 10:31:29 ERROR Refund failed: gateway timeout
+payment_2025-01-14.log: 2025/01/14 10:31:37 ERROR Payment gateway 503
+payment_2025-01-14.log: 2025/01/14 10:31:43 ERROR Card declined
+payment_2025-01-14.log: 2025/01/14 10:31:51 ERROR Settlement rejected
+payment_2025-01-14.log: 2025/01/14 10:31:56 ERROR Failed to send confirmation email
+server_2025-01-11.log: 2025-01-11 12:11:02 [ERROR] Client request failed: malformed JSON payload
+server_2025-01-11.log: 2025-01-11 12:16:37 [ERROR] Failed to write to log file
+server_2025-01-11.log: 2025-01-11 12:16:51 [ERROR] Socket bind failed port=8080
+server_2025-01-11.log: 2025-01-11 12:16:58 [ERROR] Config reload failed
+server_2025-01-11.log: 2025-01-11 12:17:05 [ERROR] Client timeout id=21
+server_2025-01-11.log: 2025-01-11 12:17:12 [ERROR] Worker crashed id=4
+server_2025-01-11.log: 2025-01-11 12:17:19 [ERROR] TLS handshake failed
+server_2025-01-11.log: 2025-01-11 12:17:26 [ERROR] HTTP 503 upstream
+server_2025-01-11.log: 2025-01-11 12:17:33 [ERROR] Log rotate failed
+server_2025-01-11.log: 2025-01-11 12:17:40 [ERROR] Client request failed: malformed JSON payload
+server_2025-01-11.log: 2025-01-11 12:17:47 [ERROR] Health endpoint degraded
+server_2025-01-11.log: 2025-01-11 12:17:54 [ERROR] File lock contention
+server_2025-01-11.log: 2025-01-11 12:18:01 [ERROR] API rate limit exceeded
+server_2025-01-11.log: 2025-01-11 12:18:08 [ERROR] Upstream timeout
+server_2025-01-11.log: 2025-01-11 12:18:15 [ERROR] Worker stalled id=7
+server_2025-01-11.log: 2025-01-11 12:18:22 [ERROR] Config invalid option
