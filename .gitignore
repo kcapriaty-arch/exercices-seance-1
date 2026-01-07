@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+.venv/
+output/
+raw_logs/
+*.log
+__pycache__/
